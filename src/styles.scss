@@ -11,3 +11,27 @@ h1 {
   letter-spacing: 3px;
   border-bottom: 5px solid $secondary-color;
 }
+
+div {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.template-puzzle-wrapper {
+  width: 600px;
+  height: 600px;
+}
+
+.puzzle-wrapper {
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 200px;
+  margin: 10px;
+}
+
+.templateCells {
+  border: 1px solid #c2ba3c;
+  background: #f8ffde;
+  width: 200px;
+  height: 200px;
+}
